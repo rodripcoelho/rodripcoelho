@@ -1,2 +1,2 @@
 # HELP
-![alt text](\media\Image.jpg)
+![alt text](image.png)
